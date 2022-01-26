@@ -1,0 +1,17 @@
+.taskitem {
+  width: 90%;
+  height: 45px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5em;
+}
+
+.taskitem__status {
+  border: 3px solid green;
+  height: 40px;
+  margin-right: 10px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
